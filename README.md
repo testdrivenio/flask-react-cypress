@@ -1,6 +1,12 @@
 # Flask + React + Cypress
 
-## Flask
+## Want to learn how to build this?
+
+Check out the [post](https://testdriven.io/blog/modern-frontend-testing-with-cypress/).
+
+## Want to use this project?
+
+### Flask
 
 Run:
 
@@ -17,7 +23,7 @@ Test:
 $ docker-compose exec web python manage.py test
 ```
 
-## React
+### React
 
 ```sh
 $ cd client
@@ -25,7 +31,7 @@ $ npm install
 $ npm start
 ```
 
-## Cypress
+### Cypress
 
 ```sh
 $ cd client
